@@ -3,7 +3,8 @@
 需要项目可以添加小羊微信
 微信：ShaunXiaoYangOvO
 或关注小红书账号：95677443851
-![Uploading image.png…]()
+<img width="509" height="365" alt="image" src="https://github.com/user-attachments/assets/6b7fc4dc-89c5-42e7-b7ea-851345022ab3" />
+
 
 
 项目分析
